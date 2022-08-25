@@ -232,4 +232,4 @@ Error generating stack: `+i.message+`
         border-bottom: 1px solid #C4C4C4;
         padding-bottom: 0.2rem;
     }
-`;function Uw(){return I("div",{className:"App",children:ge(T0,{children:[I(va,{path:"/",element:I(Aw,{})}),I(va,{path:"/results",element:I(Dw,{})})]})})}Cl.createRoot(document.getElementById("root")).render(I(Fc.StrictMode,{children:I(R0,{basename:process.env.PUBLIC_URL,children:I(Uw,{})})}));
+`;function Uw(){return I("div",{className:"App",children:ge(T0,{children:[I(va,{path:"/",element:I(Aw,{})}),I(va,{path:"/results",element:I(Dw,{})})]})})}Cl.createRoot(document.getElementById("root")).render(I(Fc.StrictMode,{children:I(R0,{basename:"/search_page/",children:I(Uw,{})})}));
