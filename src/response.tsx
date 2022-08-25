@@ -1,5 +1,5 @@
 export const test_error = {error:{
-  code: 666,
+  code: 103,
   message:
     "you lose",
   errors: [
@@ -10,7 +10,7 @@ export const test_error = {error:{
       reason: "you lost",
     },
   ],
-  status: "LOSS_REACHED",
+  status: "LOADING...",
   details: [
     {
       "@type": "type.googleapis.com/google.rpc.ErrorInfo",
